@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include<stdio.h> 
 
-int main(){
+int main() {        
     char operator;
     double first, second;
     printf("**************************************\n");
@@ -37,5 +37,5 @@ default:
 }
 
 
-    return 0;
+    return 0; 
 }
